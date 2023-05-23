@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-image: url('bg.jpg');
+    background-repeat: no-repeat;
+    background-size: 2000px 1000px;
+}
+.container{
+    background: transparent;
+    opacity: .7;
+}
+h3,
+h5{
+font-family:Arial, Helvetica, sans-serif;
+color: rgb(230, 130, 84);
+
+}
+.trow{
+color: rgb(230, 130, 84);
+
+}
